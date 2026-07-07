@@ -47,7 +47,7 @@ This repository contains well-organized notes, examples, exercises, interview-fo
 * ETL Pipelines
 * Interview Preparation
 
-## Learning Approach
+## Learning Approach :
 
 Each topic is studied through:
 
